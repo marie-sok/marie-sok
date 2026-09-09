@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.jpg" alt="Maria Morozova — Full-Stack Developer" width="100%">
+  <img src="./assets/profile-banner.jpg" alt="Maria Morozova — Full-Stack Developer" width="42%">
 </p>
 
 # Maria Morozova ✨
