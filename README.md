@@ -2,7 +2,7 @@
   <img src="./assets/profile-banner.jpg" alt="Maria Morozova — Full-Stack Developer" width="100%">
 </p>
 
-# Maria Morozova 👋
+# Maria Morozova ✨
 
 ### iOS · Backend · AI · Automation
 
