@@ -6,12 +6,11 @@
 
 ### Mobile · Backend · AI · Product Engineering
 
-Я создаю продукты от первой идеи до работающей системы: интерфейс, мобильный клиент,
-API, база данных, интеграции, тесты и эксплуатация. Мой главный проект сейчас —
-**gru.**, приватный мессенджер с собственным визуальным языком и приоритетом на
-защиту.
+I build products from the first idea to a working system: interface, mobile client,
+API, database, integrations, tests, and operations. My main project is **gru.**,
+a private messenger with its own visual language and a security-first approach.
 
-> **gru. — людьми для людей / people for people.**
+> **gru. — by people, for people / людьми для людей.**
 
 ## Featured projects
 
@@ -19,33 +18,34 @@ API, база данных, интеграции, тесты и эксплуат
 
 `SwiftUI` · `Spring Boot` · `MongoDB` · `WebSocket/STOMP` · `E2EE` · `CryptoKit`
 
-Нативный iOS-мессенджер для близкого круга: realtime-чаты, защищённые текст и
-медиа, reply/edit/delete, голосовые и видео-кружки, контакты, профили, gru.bot и
-девять фирменных неоновых тем. Текущая линия — physical iPhone beta 0.9.2.
+A native iOS messenger for close circles: real-time chats, encrypted text and
+media, reply/edit/delete, voice messages with RU/EN transcription and
+transliteration, cat video notes, contacts, profiles, gru.bot, and nine signature
+neon themes. Current line: physical iPhone beta 0.9.2.
 
 ### [gru.guardian — operations and safety companion](https://github.com/marie-sok/gru_guardian)
 
 `Python` · `Telegram` · `SQLite` · `Monitoring` · `GitHub automation`
 
-Приватный операционный помощник для gru.: health-мониторинг, инциденты,
-уведомления, журнал запросов и разграничение режимов Observe / Repair / Code /
-Production. Изменения проходят через явные действия и проверяемые сценарии.
+A private operations companion for gru.: health monitoring, incident tracking,
+alerts, request logs, and explicit Observe / Repair / Code / Production permission
+modes. Changes go through deliberate actions and verifiable workflows.
 
 ### [Oly — AI Telegram Agent](https://github.com/marie-sok/helper_bot_oly)
 
 `Java` · `Spring Boot` · `PostgreSQL` · `Liquibase` · `LLM tools` · `Docker`
 
-Контекстный AI-агент с памятью диалога, инструментами для напоминаний и задач,
-поиском, обработкой медиа, webhook-доставкой, health-checks, таймаутами и
-fallback-сценариями при сбоях провайдера.
+A stateful AI agent with conversation memory, reminder and task tools, search,
+media processing, webhook delivery, health checks, timeouts, and provider-fallback
+paths.
 
 ### [Tattoo & PMU Telegram Bot](https://github.com/marie-sok/tattoo_bot)
 
 `Python` · `aiogram` · `AI` · `SQLite`
 
-Прикладной бот для записи клиентов: AI-консьерж, реальные слоты, перенос и
-отмена, напоминания, заявки с референсами, приватный inbox мастера и команды для
-управления расписанием.
+A practical booking bot with an AI concierge, real slot availability,
+rescheduling and cancellation, reminders, reference uploads, a private owner
+inbox, and schedule-management commands.
 
 ## What I build
 
@@ -56,11 +56,12 @@ fallback-сценариями при сбоях провайдера.
 `Swift` `SwiftUI` `Java` `Spring Boot` `Python` `aiogram` `REST` `WebSocket` `STOMP`
 `MongoDB` `PostgreSQL` `SQLite` `E2EE` `CryptoKit` `Docker` `Maven` `CI/CD`
 
-## Сейчас
+## Current focus
 
-Я довожу gru. до внешней iPhone-беты: проверяю авторизацию, realtime, восстановление
-после потери сети, медиа, E2EE и защиту экрана на физических устройствах. В работе
-остаются remote push-уведомления и полная синхронизация профиля между устройствами.
+I am taking gru. toward an external iPhone beta: testing authentication,
+real-time delivery, network recovery, media, E2EE, and screen privacy on physical
+devices. Remote push notifications and full cross-device profile sync are still
+in progress.
 
 ## Links
 
