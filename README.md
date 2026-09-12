@@ -1,40 +1,72 @@
 <p align="center">
-  <img src="./assets/profile-banner.jpg" alt="Maria Morozova — Full-Stack Developer" width="42%">
+  <img src="./assets/profile-banner.jpg" alt="Maria Sok — mobile, backend and AI products" width="42%">
 </p>
 
-# Maria Morozova ✨
+# Maria Sok ✨
 
-### iOS · Backend · AI · Automation
+### Mobile · Backend · AI · Product Engineering
 
-Full-stack developer building **mobile apps, backend systems, Telegram bots and AI-powered products** — from idea and UI to API, database and production deployment.
+Я создаю продукты от первой идеи до работающей системы: интерфейс, мобильный клиент,
+API, база данных, интеграции, тесты и эксплуатация. Мой главный проект сейчас —
+**gru.**, приватный мессенджер с собственным визуальным языком и приоритетом на
+защиту.
 
-## 🚀 Featured Projects
+> **gru. — людьми для людей / people for people.**
 
-### [GRU — iOS Real-Time Messenger](https://github.com/marie-sok/gru.)
+## Featured projects
+
+### [gru. — private iOS messenger](https://github.com/marie-sok/gru./tree/release/physical-iphone-beta-0.9.2-full)
+
 `SwiftUI` · `Spring Boot` · `MongoDB` · `WebSocket/STOMP` · `E2EE` · `CryptoKit`
 
-Full-stack messenger with real-time messaging, encrypted text/media, voice, video, reactions, replies and custom animated themes.
+Нативный iOS-мессенджер для близкого круга: realtime-чаты, защищённые текст и
+медиа, reply/edit/delete, голосовые и видео-кружки, контакты, профили, gru.bot и
+девять фирменных неоновых тем. Текущая линия — physical iPhone beta 0.9.2.
 
-### [Tattoo Booking Bot](https://github.com/marie-sok/tattoo_bot)
-`Python` · `aiogram` · `AI` · `SQLite` · `Render`
+### [gru.guardian — operations and safety companion](https://github.com/marie-sok/gru_guardian)
 
-Telegram booking assistant with automated appointments, notifications and autonomous fallback when AI is unavailable.
+`Python` · `Telegram` · `SQLite` · `Monitoring` · `GitHub automation`
 
-### [Companies App](https://github.com/marie-sok/companies_app)
-Application project focused on product and client-side functionality.
+Приватный операционный помощник для gru.: health-мониторинг, инциденты,
+уведомления, журнал запросов и разграничение режимов Observe / Repair / Code /
+Production. Изменения проходят через явные действия и проверяемые сценарии.
 
-### [Helper Bot](https://github.com/marie-sok/helper_bot_oly)
-`Python` · `Telegram automation`
+### [Oly — AI Telegram Agent](https://github.com/marie-sok/helper_bot_oly)
 
-Telegram bot built around workflow automation.
+`Java` · `Spring Boot` · `PostgreSQL` · `Liquibase` · `LLM tools` · `Docker`
 
-## 🛠 Stack
+Контекстный AI-агент с памятью диалога, инструментами для напоминаний и задач,
+поиском, обработкой медиа, webhook-доставкой, health-checks, таймаутами и
+fallback-сценариями при сбоях провайдера.
 
-`Swift` `SwiftUI` `Java` `Spring Boot` `Python` `aiogram`  
-`MongoDB` `REST API` `WebSocket` `STOMP` `E2EE` `Git` `Render`
+### [Tattoo & PMU Telegram Bot](https://github.com/marie-sok/tattoo_bot)
 
-## 💼 What I build
+`Python` · `aiogram` · `AI` · `SQLite`
 
-**iOS Apps · Telegram Bots · Backend APIs · AI Integrations · MVPs**
+Прикладной бот для записи клиентов: AI-консьерж, реальные слоты, перенос и
+отмена, напоминания, заявки с референсами, приватный inbox мастера и команды для
+управления расписанием.
 
-> From idea → architecture → code → production.
+## What I build
+
+`iOS apps` · `SwiftUI` · `Backend APIs` · `Telegram bots` · `AI agents` · `Realtime`
+
+## Stack
+
+`Swift` `SwiftUI` `Java` `Spring Boot` `Python` `aiogram` `REST` `WebSocket` `STOMP`
+`MongoDB` `PostgreSQL` `SQLite` `E2EE` `CryptoKit` `Docker` `Maven` `CI/CD`
+
+## Сейчас
+
+Я довожу gru. до внешней iPhone-беты: проверяю авторизацию, realtime, восстановление
+после потери сети, медиа, E2EE и защиту экрана на физических устройствах. В работе
+остаются remote push-уведомления и полная синхронизация профиля между устройствами.
+
+## Links
+
+- [Boosty / gru.](https://boosty.to/gru_app)
+- [GitHub](https://github.com/marie-sok)
+
+---
+
+**Built by Marie Sok.**
