@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="./assets/profile-banner.jpg" alt="Maria Sok — mobile, backend and AI products" width="42%">
+  <img src="./assets/profile-banner.jpg" alt="Marie Sok — mobile, backend and AI products" width="42%">
 </p>
 
-# Maria Sok ✨
+# Marie Sok ✨
 
 ### Mobile · Backend · AI · Product Engineering
 
@@ -47,26 +47,38 @@ A practical booking bot with an AI concierge, real slot availability,
 rescheduling and cancellation, reminders, reference uploads, a private owner
 inbox, and schedule-management commands.
 
+## More work
+
+### [Ads-Online — React marketplace frontend](https://github.com/marie-sok/front-react-avito)
+
+`React` · `Redux` · `React Router` · `SCSS` · `Material UI` · `REST API`
+
+A responsive marketplace interface with authentication, protected routes, search,
+profiles, listing CRUD flows, comments, Redux state, and desktop/mobile layouts.
+
+### [Companies App — data search prototype](https://github.com/marie-sok/companies_app)
+
+`Next.js` · `React` · `TypeScript` · `SQLite` · `Tailwind CSS` · `Docker`
+
+A work-in-progress product shell for structured company data, local datasets and
+search-oriented workflows.
+
+### [Company Data Loader](https://github.com/marie-sok/sok_comp)
+
+`Python` · `SQLite` · `JSON`
+
+A compact data-ingestion project that loads paginated company JSON datasets into
+SQLite and runs analytical queries.
+
 ## What I build
 
 `iOS apps` · `SwiftUI` · `Backend APIs` · `Telegram bots` · `AI agents` · `Realtime`
 
 ## Stack
 
-`Swift` `SwiftUI` `Java` `Spring Boot` `Python` `aiogram` `REST` `WebSocket` `STOMP`
-`MongoDB` `PostgreSQL` `SQLite` `E2EE` `CryptoKit` `Docker` `Maven` `CI/CD`
-
-## Current focus
-
-I am taking gru. toward an external iPhone beta: testing authentication,
-real-time delivery, network recovery, media, E2EE, and screen privacy on physical
-devices. Remote push notifications and full cross-device profile sync are still
-in progress.
-
-## Links
-
-- [Boosty / gru.](https://boosty.to/gru_app)
-- [GitHub](https://github.com/marie-sok)
+`Swift` `SwiftUI` `Java` `Spring Boot` `Python` `aiogram` `JavaScript` `React`
+`TypeScript` `REST` `WebSocket` `STOMP` `MongoDB` `PostgreSQL` `SQLite` `E2EE`
+`CryptoKit` `Docker` `Maven` `CI/CD`
 
 ---
 
